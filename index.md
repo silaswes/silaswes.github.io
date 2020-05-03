@@ -8,6 +8,6 @@
     <script src="scripts/model3d.js"></script>
 </head>
 <body>
-    <model-3d background-color="#ffffff" src="/models/panda.glb"></model-3d>
+    <model-3d background-color="#000000" src="/models/scene.gltf"></model-3d>
 </body>
 </html>
